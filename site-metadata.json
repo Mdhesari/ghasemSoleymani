@@ -1,0 +1,22 @@
+{
+    "title": "General Soleimani",
+    "palette": "yellow",
+    "header": {
+        "title": "#HRAD_REVENGE",
+        "tagline": "",
+        "logo_img": "",
+        "bg_img": "images/header-bg.jpg",
+        "has_nav": true,
+        "has_social": false
+    },
+    "footer": {
+        "content": "&copy; All rights reserved.",
+        "links": [
+            {
+                "text": "Github Repository.",
+                "url": "https://github.com/Mdhesari/ghasemSoleymani",
+                "new_window": true
+            }
+        ]
+    }
+}
